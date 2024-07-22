@@ -1,7 +1,7 @@
 # Ignore everything inside the bin folder
 /bin/*
 # Except the bin folder itself
-!/bin/
+!/bin
 
 .vscode
 .DS_Store
